@@ -1,5 +1,5 @@
 "use strict";
-const serverlessExpress = require('@vendia/serverless-express')
+import serverlessExpress from '@vendia/serverless-express';
 
-const app = require('./app')
+import app from './app'
 exports.handler = serverlessExpress({ app })
