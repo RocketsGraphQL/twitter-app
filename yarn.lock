@@ -19,6 +19,11 @@
   resolved "https://registry.yarnpkg.com/@types/http-cache-semantics/-/http-cache-semantics-4.0.3.tgz#a3ff232bf7d5c55f38e4e45693eda2ebb545794d"
   integrity sha512-V46MYLFp08Wf2mmaBhvgjStM3tPa+2GAdy/iqoX+noX1//zje2x4XmrIU0cAwyClATsTmahbtoQ2EwP7I5WSiA==
 
+"@vendia/serverless-express@^4.10.4":
+  version "4.10.4"
+  resolved "https://registry.yarnpkg.com/@vendia/serverless-express/-/serverless-express-4.10.4.tgz#041c04cf47a8053392299dee244283fdfe84766e"
+  integrity sha512-OH2cX+LqtrayCIkHAkShiLnvrgqGDvwIQEex5dHc/uJitBQjIz3q7dZtfU7cZ5vcR9Vkide5xJQDBEMbXoWLeA==
+
 abort-controller@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/abort-controller/-/abort-controller-3.0.0.tgz#eaf54d53b62bae4138e809ca225c8439a6efb392"
