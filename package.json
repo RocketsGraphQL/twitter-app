@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "version": "1.0.0",
-  "description": "App to send tweets at a set time. 20. decouple zipping and compiling.",
+  "description": "App to send tweets at a set time. 21. checking to see if upload works",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
