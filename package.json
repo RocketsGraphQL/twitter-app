@@ -8,12 +8,12 @@
   },
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "@vendia/serverless-express": "^4.10.4",
     "axios": "^1.6.0",
     "axios-oauth-1.0a": "^0.3.6",
     "crypto": "^1.0.1",
+    "express": "^4.18.2",
     "got": "^13.0.0",
     "oauth-1.0a": "^2.2.6",
     "querystring": "^0.2.1",

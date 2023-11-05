@@ -1,9 +1,9 @@
 // jshint esversion: 6
 
-import express from "express";
-import bodyParser from "body-parser";
-import axios from "axios";
-import addOAuthInterceptor from "axios-oauth-1.0a";
+const express = require("express");
+const bodyParser = require("body-parser");
+const axios = require("axios");
+const addOAuthInterceptor = require("axios-oauth-1.0a");
 
 const app = express();
 const port = 3000
@@ -47,4 +47,4 @@ app.post("/tweet", function (req, res) {
 
 app.listen(port, () => console.log(`calculator listening on port {port}!`))
 
-module.exports = app
+module.exports = app;
