@@ -38,11 +38,12 @@ app.post("/tweet", function (req, res) {
     data)
     .then(response => {
         console.log("resp: ", response);
+        res.send(`<h2> the result is : Tweeted </h2>` );
     })
     .catch(err => {
         console.log(err);
+        res.send(`<h2> the result is : Error </h2>` );
     });
-    res.send(`<h2> the result is : Tweeted </h2>` );
 });
 
 app.listen(port, () => console.log(`calculator listening on port {port}!`))
