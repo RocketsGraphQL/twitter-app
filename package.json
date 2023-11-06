@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "version": "1.0.0",
-  "description": "App to send tweets at a set time. 23. ensure correct compilation folder.",
+  "description": "App to send tweets at a set time. 24. Try with clean folder.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
