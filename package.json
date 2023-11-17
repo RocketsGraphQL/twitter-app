@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "version": "1.0.0",
-  "description": "App to send tweets at a set time. 34. Check with volumes. again not work",
+  "description": "App to send tweets at a set time. 34. Check with volumes. actually create /go/src/example.com/m/code_to_compile_lambda on the filesystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
