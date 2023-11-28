@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "version": "1.0.0",
-  "description": "App to send tweets at a set time. debug 12 error. convert stdout to string. sleep a few secs. sleep 2.",
+  "description": "App to send tweets at a set time. debug 12 error. updated zipfile name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
