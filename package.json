@@ -1,7 +1,7 @@
 {
   "name": "twitter-app",
   "version": "1.0.0",
-  "description": "App to send tweets at a set time. 42. changing the folder name to -compiled",
+  "description": "App to send tweets at a set time. 42. changing the folder name to -compiled. And clean folder.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
