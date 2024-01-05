@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vendia/serverless-express": "^4.10.4",
-    "axios": "^1.6.0",
+    "@codegenie/serverless-express": "^4.12.2",
+    "axios": "^1.6.2",
     "axios-oauth-1.0a": "^0.3.6",
     "crypto": "^1.0.1",
     "express": "^4.18.2",
@@ -18,6 +18,7 @@
     "oauth-1.0a": "^2.2.6",
     "querystring": "^0.2.1",
     "readline": "^1.3.0",
+    "request": "^2.88.2",
     "twitter-api-sdk": "^1.2.1"
   }
 }
